@@ -1,2 +1,2 @@
 FROM alpine:latest
-RUN apk update && apk add openssh-client bash make
+RUN apk update && apk add openssh-client bash make git
